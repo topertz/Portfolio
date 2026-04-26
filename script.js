@@ -25,7 +25,7 @@ const texts = {
             "Univerzita J. Selyeho – Aplikovaná informatika (Mgr.) – Komárno (2024 – 2026)"
         ],
         projectTitle: "Moje projekty",
-        contactTitle: "Kontakty",
+        contactTitle: "Moje kontakty",
         footer: "Email: kovacs.mark963@gmail.com"
     },
 
@@ -40,7 +40,7 @@ const texts = {
             "Selye János University – Applied Informatics (Mgr.) – Komárno (2024 – 2026)"
         ],
         projectTitle: "My projects",
-        contactTitle: "Contacts",
+        contactTitle: "My contacts",
         footer: "Email: kovacs.mark963@gmail.com"
     }
 };
