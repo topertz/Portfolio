@@ -28,7 +28,7 @@ const texts = {
 
     sk: {
         title: "Bc. Márk Kovács",
-        about: "Som začínajúci softvérový vývojár, ktorý sa chce rozvíjať v rôznych oblastiach programovania. Momentálne sa venujem webovému vývoju a učím sa Python, Java a C#. Mojím cieľom je získať široké znalosti v rôznych programovacích jazykoch a technológiách. Rád riešim problémy a motivuje ma písať kvalitný kód. Vo voľnom čase programujem a tvorím projekty.",
+        about: "Som začínajúci softvérový vývojár, ktorý sa chce rozvíjať v rôznych oblastiach programovania. Momentálne sa okrem webového vývoja venujem aj základom Pythonu, Javy a C#. Mojím cieľom je získať široké znalosti v rôznych programovacích jazykoch a technológiách. Rád riešim problémy a motivuje ma písať kvalitný kód. Vo voľnom čase programujem a tvorím projekty.",
         eduTitle: "Vzdelanie",
         edu: [
             "Základná škola s vyučovacím jazykom maďarským – Diakovce (2006.09.01 – 2015.06.30)",
@@ -55,7 +55,7 @@ const texts = {
 
     en: {
         title: "Bc. Márk Kovács",
-        about: "I am a beginner software developer who wants to grow in multiple areas of programming. I am currently learning Python, Java and C#. My goal is to gain broad knowledge in different programming languages and technologies. I enjoy problem-solving and writing well-structured code. In my free time, I practice and build projects.",
+        about: "I am a beginner software developer who wants to grow in multiple areas of programming. Currently, in addition to web development, I am working on Python, Java and C# basic. My goal is to gain broad knowledge in different programming languages and technologies. I enjoy problem-solving and writing well-structured code. In my free time, I practice and build projects.",
         eduTitle: "Education",
         edu: [
             "Primary School With Hungarian Language – Diakovce (2006.09.01 – 2015.06.30)",
