@@ -58,7 +58,7 @@ const texts = {
         about: "I am a beginner software developer who wants to grow in multiple areas of programming. Currently, in addition to web development, I am working on Python, Java and C# basic. My goal is to gain broad knowledge in different programming languages and technologies. I enjoy problem-solving and writing well-structured code. In my free time, I practice and build projects.",
         eduTitle: "Education",
         edu: [
-            "Primary School With Hungarian Language – Diakovce (2006.09.01 – 2015.06.30)",
+            "Primary School with Hungarian language – Diakovce (2006.09.01 – 2015.06.30)",
             "Jedlik Ányos Technical Secondary School – Nové Zámky (2015.09.01 – 2019.06.30)",
             "Selye János University – Applied Informatics (Bc.) – Komárno (2021.09.01 – 2024.06.17)",
             "Selye János University – Applied Informatics (Mgr.) – Komárno (2024.09.01 – 2026.06.17)"
