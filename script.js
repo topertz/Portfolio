@@ -2,7 +2,7 @@ const texts = {
     sk: {
         pageTitle: "Portfólio: Márk Kovács",
         navbar: [
-            "O mne", "Práca", "Vzdelanie", "Projekty", "Kontakty"
+            "O mne", "Pracovné pozície", "Vzdelanie", "Projekty", "Kontakty"
         ],
         title: "Mgr. Márk Kovács",
         about: "Som začínajúci softvérový vývojár, ktorý sa chce rozvíjať v rôznych oblastiach programovania. Momentálne sa okrem webového vývoja venujem aj základom Pythonu, Javy a C#. Mojím cieľom je získať široké znalosti v rôznych programovacích jazykoch a technológiách. Rád riešim problémy a motivuje ma písať kvalitný kód. Vo voľnom čase programujem a tvorím projekty.",
@@ -38,7 +38,7 @@ const texts = {
     en: {
         pageTitle: "Portfolio: Márk Kovács",
         navbar: [
-            "About me", "Work", "Education", "Projects", "Contacts"
+            "About me", "Workplaces", "Education", "Projects", "Contacts"
         ],
         title: "Mgr. Márk Kovács",
         about: "I am a beginner software developer who wants to grow in multiple areas of programming. Currently, in addition to web development, I am working on Python, Java and C# basic. My goal is to gain broad knowledge in different programming languages and technologies. I enjoy problem-solving and writing well-structured code. In my free time, I practice and build projects.",
