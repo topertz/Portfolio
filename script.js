@@ -86,7 +86,7 @@ const texts = {
         ],
         eduTitle: "Education",
         edu: [
-            "Jedlik Ányos Technical Secondary School – Nové Zámky (1 September 2015 – 30 June 2019)",
+            "Jedlik Ányos Electrotechnical Secondary School – Nové Zámky (1 September 2015 – 30 June 2019)",
             "Selye János University – Applied Informatics (Bc.) – Komárno (1 September 2021 – 17 June 2024)",
             "Selye János University – Applied Informatics (Mgr.) – Komárno (1 September 2024 – 17 June 2026)"
         ],
