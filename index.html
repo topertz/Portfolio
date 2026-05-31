@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio: Márk Kovács</title>
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/169160816?v=4&size=64">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a id="nav-about" href="#title">O mne</a>
+        <a id="nav-work" href="#work">Práca</a>
+        <a id="nav-edu" href="#eduTitle">Vzdelanie</a>
+        <a id="nav-project" href="#projectTitle">Projekty</a>
+        <a id="nav-contact" href="#contactTitle">Kontakty</a>
+    </nav>
+    <div class="lang-buttons">
+        <button class="language" onclick="setLang('sk')">SK</button>
+        <button class="language" onclick="setLang('en')">EN</button>
+        <button class="language" onclick="setLang('hu')">HU</button>
+    </div>
+    <img class="profile-img" src="images/profil.jpg" alt="Profilkép">
+    <h1 id="title">Mgr. Márk Kovács</h1>
+    <p id="about">
+       Som začínajúci softvérový vývojár, ktorý sa chce rozvíjať v rôznych oblastiach programovania. Momentálne sa okrem webového vývoja venujem aj základom Pythonu, 
+       Javy a C#. Mojím cieľom je získať široké znalosti v rôznych programovacích jazykoch a technológiách. Rád riešim problémy a motivuje ma písať kvalitný kód. Vo 
+       voľnom čase programujem a tvorím projekty.
+    </p>
+    <h2 id="work" class="role">Pracoviská</h2>
+    <p class="practice">
+        Produktový fotograf – Furbify s.r.o. – Kolárovo
+    </p>
+    <p class="practice">
+        Inštalátor systému – Furbify s.r.o. – Kolárovo
+    </p>
+    <p class="practice">
+        Zberateľ tovaru – CEVA Contract Logistics Slovakia s.r.o. - Dunajská Streda
+    </p>
+    <p class="practice">
+        AUTOCAD kresliar – MENERT spol. s.r.o. – Galanta
+    </p>
+    <h2 id="eduTitle">Vzdelanie</h2>
+    <ul id="edu">
+        <li>
+            <a href="https://spojenaskolanz.edupage.org/">
+                <img class="edu" src="images/kozepiskola.jpg">
+            </a>
+            <span>Stredná odborná škola elektrotechnická Jedlika Ányosa – Nové Zámky (01.09.2015 – 30.06.2019)</span>
+        </li>
+        <li>
+            <a href="https://www.ujs.sk/hu/">
+                <img class="edu" src="images/egyetem.jpg">
+            </a>
+            <span>Univerzita J. Selyeho – Aplikovaná informatika (Bc.) – Komárno (01.09.2021 – 17.06.2024)</span>
+            <span class="master">Univerzita J. Selyeho – Aplikovaná informatika (Mgr.) – Komárno (01.09.2024 – 17.06.2026)</span>
+        </li>
+    </ul>
+    <h2 id="projectTitle">Projekty</h2>
+    <ul id="project">
+        <li>
+            <a href="https://github.com/topertz/Nonogram">
+                <img id="img-nonogram" class="proj" src="images/nonogram.jpg">
+            </a>
+            <h1 class="project">Grafická aplikácia</h1>
+            <p class="desc">
+                Cieľom diplomovej práce je vytvoriť aplikáciu, ktorá generuje grafologické (nonogramové, japonské krížovky) hádanky a podporuje ich riešenie. 
+                Aplikácia dokáže vytvárať úlohy, ich vizuálny obraz a interaktívne možnosti riešenia, poskytuje detekciu chýb a kontrolu správneho riešenia.
+            </p>
+        </li>
+        <li>
+            <a href="https://github.com/topertz/Sudoku">
+                <img id="img-sudoku" class="proj" src="images/sudoku.jpg">
+            </a>
+            <h1 class="project">Logická hra rozvíjajúca zručnosti</h1>
+            <p class="desc">
+                Cieľom bakalárskej práce je vytvoriť jednoduchú logickú hru Sudoku, ktorú je možné hrať na rôznych úrovniach obtiažnosti. V prípade problému 
+                navrhnite možný dobrý ťah výmenou za trestný bod. Na konci hry hra vyhodnotí a zoradí hráča na základe počtu správnych ťahov a uplynutého 
+                hracieho času.
+            </p>
+        </li>
+        <li>
+            <a href="https://github.com/topertz/Driving_School">
+                <img id="img-driving" class="proj" src="images/driving.jpg">
+            </a>
+            <h1 class="project">Projekt autoškoly</h1>
+            <p class="desc">  
+                Tento projekt je navrhnutý tak, aby vyučoval a precvičoval základné koncepty webového vývoja a správu dát v administratívnom štýle.
+            </p>
+        </li>
+        <li>
+            <a href="https://github.com/topertz/Airplane">
+                <img id="img-airplane" class="proj" src="images/airplane.jpg">
+            </a>
+            <h1 class="project">Projekt lietadla</h1>
+            <p class="desc">
+                Tento projekt je zameraný na skúmanie algoritmického riešenia problémov v dopravných systémoch so zameraním na optimalizáciu a plánovanie 
+                pomocou jazyka C++.
+            </p>
+        </li>
+    </ul>
+</body>
+<h2 id="contactTitle">Kontakty</h2>
+<footer id="footer">
+   <span><i class="fa-solid fa-phone"></i> Tel.: +421 (0) 903 397 840</span>
+   <span class="email-box">
+    <i class="fa-solid fa-envelope"></i>
+        Email: <a id="email" href="mailto:kovacs.mark963@gmail.com?subject=Üzenet a weboldalról">kovacs.mark963@gmail.com</a>
+   </span>
+</footer>
+</html>
