@@ -4,7 +4,7 @@ const texts = {
         navbar: [
             "O mne", "Pracovné pozície", "Vzdelanie", "Projekty", "Kontakty"
         ],
-        title: "Pozdravujem Vás! <br> Tu je Mgr. Márk Kovács!",
+        title: "Pozdravujem Vás! <br> Som Mgr. Márk Kovács!",
         about: "Som začínajúci softvérový vývojár, ktorý sa chce rozvíjať v rôznych oblastiach programovania. Momentálne sa okrem webového vývoja venujem aj základom Pythonu, Javy a C#. Mojím cieľom je získať široké znalosti v rôznych programovacích jazykoch a technológiách. Rád riešim problémy a motivuje ma písať kvalitný kód. Vo voľnom čase programujem a tvorím projekty.",
         workTitle: "Pracoviská",
         work: [
