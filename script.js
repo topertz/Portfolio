@@ -58,7 +58,7 @@ const texts = {
         projectTitle: "Projects",
         project: [
             "Creating a graph logic application",
-            "A puzzle game focused on building skills",
+            "A sudoku game focused on building skills",
             "Driving school project",
             "Airplane project"
         ],
