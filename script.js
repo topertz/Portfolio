@@ -63,7 +63,7 @@ const texts = {
             "Airplane project"
         ],
         desc: [
-            "The aim of my diploma thesis is to create an application that generates graphological (nonogram, Japanese crosswords) puzzles and supports their solution. The application is able to create tasks, ich visual images, interactive options, and provides error detection and control management solutions.",
+            "The aim of my diploma thesis is to create an application that generates graphological (nonogram, Japanese crosswords) puzzles and supports their solution. The application is able to create tasks, visual images, interactive options, and provides error detection and control management solutions.",
             "The aim of the bachelor's thesis is to create a simple logic game, Sudoku, that can be played at different difficulty levels. In case of a problem, suggest a possible good move in exchange for a penalty point. At the end of the game, the game evaluates and ranks the player based on the number of correct moves and the elapsed playing time.",
             "This project is designed to teach and practice basic web development concepts and administrative-style data management.",
             "This project is focused on the investigation of algorithmic solutions to problems in transport systems and the optimization of planning using language C++."
