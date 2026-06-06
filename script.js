@@ -21,7 +21,7 @@ const texts = {
         ],
         projectTitle: "Projekty",
         project: [
-            "Tvorba aplikácie maľované krížovky",
+            "Tvorba aplikácie Maľované krížovky",
             "Logická hra zameraná na budovanie zručností",
             "Projekt autoškoly",
             "Projekt lietadla"
