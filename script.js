@@ -40,7 +40,7 @@ const texts = {
         navbar: [
             "About me", "Workplaces", "Education", "Projects", "Contacts"
         ],
-        title: "Greetings <br> Mgr. Márk Kovács!",
+        title: "Greets you <br> Mgr. Márk Kovács!",
         about: "I am a beginner software developer who wants to grow in multiple areas of programming. Currently, in addition to web development, I am working on Python, Java and C# basic. My goal is to gain broad knowledge in different programming languages and technologies. I enjoy problem-solving and writing well-structured code. In my free time, I practice and build projects.",
         workTitle: "Workplaces",
         work: [
@@ -76,7 +76,7 @@ const texts = {
         navbar: [
             "Rólam", "Munkahelyek", "Végzettségek", "Projektek", "Kapcsolatok"
         ],
-        title: "Üdvözletem <br> Mgr. Kovács Márk!",
+        title: "Üdvözli Önt <br> Mgr. Kovács Márk!",
         about: "Kezdő szoftverfejlesztő vagyok, aki a programozás több területén is szeretne fejlődni. Jelenleg a webfejlesztés mellett foglalkozom Python, Java és C# alapokkal. Célom, hogy átfogó tudást szerezzek különböző programozási nyelvekben és technológiákban. Szeretem a problémamegoldást és motivál, hogy jól strukturált kódot írjak. Szabadidőmben gyakorlok és projekteket készítek.",
         workTitle: "Munkahelyeim",
         work: [
